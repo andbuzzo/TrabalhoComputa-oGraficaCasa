@@ -1,0 +1,69 @@
+D:\vs2015\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\vs2015\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\vs2015\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\vs2015\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+D:\vs2015\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+D:\vs2015\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.pdb
+D:\vs2015\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+D:\vs2015\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+D:\vs2015\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\vs2015\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\vs2015\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\vs2015\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\vs2015\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\vs2015\Textura3D\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\vs2015\Textura3D\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\vs2015\Textura3D\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\vs2015\Textura3D\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\vs2015\Textura3D\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\vs2015\Textura3D\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+D:\vs2015\Textura3D\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+D:\vs2015\Textura3D\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.pdb
+D:\vs2015\Textura3D\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+D:\vs2015\Textura3D\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+D:\vs2015\Textura3D\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\vs2015\Textura3D\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\vs2015\Textura3D\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\vs2015\Textura3D\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\BCC\BCC_2º\COMPUTAÇÃO_GRAFICA\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\BCC\BCC_2º\COMPUTAÇÃO_GRAFICA\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\BCC\BCC_2º\COMPUTAÇÃO_GRAFICA\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\BCC\BCC_2º\COMPUTAÇÃO_GRAFICA\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\BCC\BCC_2º\COMPUTAÇÃO_GRAFICA\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\BCC\BCC_2º\COMPUTAÇÃO_GRAFICA\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+C:\BCC\BCC_2º\COMPUTAÇÃO_GRAFICA\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+C:\BCC\BCC_2º\COMPUTAÇÃO_GRAFICA\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.pdb
+C:\BCC\BCC_2º\COMPUTAÇÃO_GRAFICA\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\BCC\BCC_2º\COMPUTAÇÃO_GRAFICA\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\BCC\BCC_2º\COMPUTAÇÃO_GRAFICA\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\BCC\BCC_2º\COMPUTAÇÃO_GRAFICA\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\BCC\BCC_2º\COMPUTAÇÃO_GRAFICA\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\BCC\BCC_2º\COMPUTAÇÃO_GRAFICA\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\André Luiz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\André Luiz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\André Luiz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\André Luiz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\André Luiz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\André Luiz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+C:\Users\André Luiz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\André Luiz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.pdb
+C:\Users\André Luiz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\André Luiz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\André Luiz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\André Luiz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\André Luiz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\André Luiz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\André Luiz\Desktop\Trabalho Computação Grafica 01 - Casa\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\André Luiz\Desktop\Trabalho Computação Grafica 01 - Casa\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\André Luiz\Desktop\Trabalho Computação Grafica 01 - Casa\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\André Luiz\Desktop\Trabalho Computação Grafica 01 - Casa\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+C:\Users\André Luiz\Desktop\Trabalho Computação Grafica 01 - Casa\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\André Luiz\Desktop\Trabalho Computação Grafica 01 - Casa\WindowsFormsApplication1\bin\Debug\OpenTK.pdb
+C:\Users\André Luiz\Desktop\Trabalho Computação Grafica 01 - Casa\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\André Luiz\Desktop\Trabalho Computação Grafica 01 - Casa\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\André Luiz\Desktop\Trabalho Computação Grafica 01 - Casa\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\André Luiz\Desktop\Trabalho Computação Grafica 01 - Casa\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\André Luiz\Desktop\Trabalho Computação Grafica 01 - Casa\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\André Luiz\Desktop\Trabalho Computação Grafica 01 - Casa\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\André Luiz\Desktop\Trabalho Computação Grafica 01 - Casa\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\André Luiz\Desktop\Trabalho Computação Grafica 01 - Casa\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
